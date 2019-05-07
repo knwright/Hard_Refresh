@@ -24,7 +24,7 @@ Machine learning is one of the intelligent methodologies that have shown promisi
 
 ### __Skater Stats Linear Regression Analysis__
 
-* Using Strenght of Schedule, Power Play Goals Against, Power Play Opportunities Against and Save Percent as features to train the model.
+* Using Even Strength Goals, Power Play Goals, and Short-handed goals as features to train the model.
 
 ![Linear Regression of Skater Stats](images/skater_regression_3.png)
 
@@ -32,3 +32,12 @@ Machine learning is one of the intelligent methodologies that have shown promisi
 
 ![Linear Regression Test](images/skater_regression_test.png)
 
+### __Skater Facial Recognition Deep Learning__
+
+* Using Facial Recognition Machine Learning to determine the facial width to height ratio (FWHR) of an imported hockey player image.
+
+![Image Recognition](images/image_recognition.png)
+
+* Predict whether a higher FWHR leads to more penalty minutes.
+
+![FWHR vs Penalty Minutes](images/myplot.jpg)
