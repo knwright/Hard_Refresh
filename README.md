@@ -14,7 +14,7 @@ Machine learning is one of the intelligent methodologies that have shown promisi
 
 ### __Team Stats Linear Regression Analysis__
 
-* Using Strenght of Schedule, Power Play Goals Against, Power Play Opportunities Against and Save Percent as features to train the model.
+* Using Strength of Schedule, Power Play Goals Against, Power Play Opportunities Against and Save Percent as features to train the model.
 
 ![Linear Regression of Team Stats](images/team_regression_4.png)
 
